@@ -89,3 +89,9 @@ Note: *Guest doesn't interact with the internal workflow of the system. So has n
 - [x] Update info
 
 ![](https://github.com/manankalra/upes-assignments/blob/master/MananKalra/Round2/images/ClassDiagram.png)
+
+### 3. Database Schema
+
+This is a blueprint of how the data is organised.
+
+![](https://github.com/manankalra/upes-assignments/blob/master/MananKalra/Round2/images/DatabaseSchema.png)
