@@ -80,7 +80,7 @@ Classes included:
 - [x] View/read debates list
 - [x] View/read debaters public profile
 
-Note: *Guest doesn't interact with the internal workflow of the system. So has no association with Administrator, Debater, Moderator etc.*
+Note: ***Guest doesn't interact with the internal workflow of the system. So has no association with Administrator, Debater, Moderator etc.***
 
 #### Debate:
 
@@ -95,3 +95,9 @@ Note: *Guest doesn't interact with the internal workflow of the system. So has n
 This is a blueprint of how the data is organised.
 
 ![](https://github.com/manankalra/upes-assignments/blob/master/MananKalra/Round2/images/DatabaseSchema.png)
+
+### 4. ### 4. Entity-Relationship Diagram
+
+This will show the relationships of entity sets stored in the database.
+
+![](https://github.com/manankalra/upes-assignments/blob/master/MananKalra/Round2/images/Entity-RelationshipDiagram.png)
