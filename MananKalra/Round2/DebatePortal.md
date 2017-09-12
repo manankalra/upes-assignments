@@ -96,8 +96,17 @@ This is a blueprint of how the data is organised.
 
 ![](https://github.com/manankalra/upes-assignments/blob/master/MananKalra/Round2/images/DatabaseSchema.png)
 
-### 4. ### 4. Entity-Relationship Diagram
+### 4. Entity-Relationship Diagram
 
 This will show the relationships of entity sets stored in the database.
 
 ![](https://github.com/manankalra/upes-assignments/blob/master/MananKalra/Round2/images/Entity-RelationshipDiagram.png)
+
+### 5. Use-Case Diagram
+
+This descirbes the behavior/actions performed by the actors in an Online Debate Portal.
+
+Note: ***Assuming, Administrator and Moderator are also allowed to take part in debates as Debaters.***
+
+![](https://github.com/manankalra/upes-assignments/blob/master/MananKalra/Round2/images/Use-CaseDiagram.png)
+
