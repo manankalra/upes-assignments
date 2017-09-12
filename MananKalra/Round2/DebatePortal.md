@@ -31,7 +31,9 @@ Other important details to take care of:
 
 This will showcase an overall behavior of applications used in an Online Debate Portal. This will mainly focus on the data consumed and produced by applications rather than their internal structure. Each application is mapped to business functions and will show how they interact with each other and end-users.
 
-### 2. Class/Object Diagram
+![](https://github.com/manankalra/upes-assignments/blob/master/MananKalra/Round2/images/ApplicationArchitecture.png)
+
+### 2. Class Diagram
 
 Classes describe the type of objects we are going to use and class diagrams will descibe the same classes and how they relate. A class is going to contain one or more attributes/fields and behaviors/methods/functions which will describe what an object can
 do or what can be done to that object.
@@ -45,7 +47,7 @@ Class item visibility:
 
 Most of the attributes will be made private or protected. 
 
-In this diagram, only the important entities are considered - Administrator, Moderator, Debater, Debate and Guest. Entities like topic list, voting system, arguments etc. can also be added, if required.
+***In this diagram, only the important entities are considered - Administrator, Moderator, Debater, Debate and Guest. Entities like topic list, voting system, arguments etc. can also be added, if required.***
 
 Classes included:
 
@@ -85,3 +87,5 @@ Note: *Guest doesn't interact with the internal workflow of the system. So has n
 - [x] Add info; info may contain details like topic, number of participants, number of ongoing sessions etc.
 - [x] Delete info
 - [x] Update info
+
+![](https://github.com/manankalra/upes-assignments/blob/master/MananKalra/Round2/images/ClassDiagram.png)
